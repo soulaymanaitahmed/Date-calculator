@@ -2,6 +2,9 @@
 
 A simple web app to calculate vacation dates and durations based on user input. Enter a start date and duration to get the end date, or enter a start and end date to calculate the duration.
 
+![App Preview](/Preview.png)
+
+
 ## 🚀 Features
 
 - 🗓️ Calculate **end date** from start date and duration.
